@@ -2,6 +2,6 @@
 
 <img src="colorGenerator.png" />
 
-####color value:
+Color value:
 
 [values.js](https://github.com/noeldelgado/values.js)
